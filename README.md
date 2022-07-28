@@ -32,22 +32,13 @@
 
 ## Linux CLI, and HTTP
 <details>
-<summary>Quiz1</summary>
+<summary>1. Linux Survival (4 modules):</summary>
 
 ![screenshot](task_linux_cli/quizNumber1.png)
-</details>
-<details>
-<summary>Quiz2</summary>
-
+  
 ![screenshot](task_linux_cli/quizNumber2.png))
-</details>
-<details>
-<summary>Quiz3</summary>
 
 ![screenshot](task_linux_cli/quizNumber3.png))
-</details>
-<details>
-<summary>Quiz4</summary>
 
 ![screenshot](task_linux_cli/quizNumber4.png))
 </details>
