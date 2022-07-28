@@ -5,9 +5,9 @@
 <details>
 <summary>1. Прослухайте тижні 1 і 2 курсу Introduction to Git and GitHub:</summary>
 
-![screenshot](img/Week1.PNG)
+![screenshot](img/Week%201.png)
 
-![screenshot](img/Week2.PNG)
+![screenshot](img/Week%202.png)
 
 </details>
 
