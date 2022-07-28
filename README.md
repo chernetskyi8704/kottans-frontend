@@ -1,6 +1,16 @@
 # STAGE 0
 
 ## Git Basics
+
+<details>
+<summary>Coursera:</summary>
+
+![screenshot](img/Week 1.JPG)
+
+![screenshot](img/Week 2.JPG)
+
+</details>
+
 <details>
 <summary>Основи:</summary>
 
