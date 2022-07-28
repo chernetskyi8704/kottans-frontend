@@ -12,19 +12,14 @@
 </details>
 
 <details>
-<summary>Основи:</summary>
+<summary>2. Пройдіть наступні рівні тут learngitbranching.js.org:</summary>
 
 ![screenshot](img/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA1.JPG)
-
-</details>
-
-<details>
-
-<summary>Віддалені репозиторії:</summary>
-
+  
 ![screenshot](img/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA2.JPG)
 
 </details>
+
 <details>
 <summary>Враження:</summary>
 
