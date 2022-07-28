@@ -1,3 +1,5 @@
+# STAGE 0
+
 ## Git Basics
 <details>
 <summary>Основи:</summary>
