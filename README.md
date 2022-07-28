@@ -32,17 +32,17 @@
 <details>
 <summary>Quiz2</summary>
 
-![screenshot](img/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA2.JPG)
+![screenshot](task_linux_cli/quizNumber2.png))
 </details>
 <details>
 <summary>Quiz3</summary>
 
-![screenshot](img/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA2.JPG)
+![screenshot](task_linux_cli/quizNumber3.png))
 </details>
 <details>
 <summary>Quiz4</summary>
 
-![screenshot](img/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA2.JPG)
+![screenshot](task_linux_cli/quizNumber4.png))
 </details>
 
 </details>
