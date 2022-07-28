@@ -5,9 +5,9 @@
 <details>
 <summary>Coursera:</summary>
 
-![screenshot](img/Week 1.JPG)
+![screenshot](img/Week1.JPG)
 
-![screenshot](img/Week 2.JPG)
+![screenshot](img/Week2.JPG)
 
 </details>
 
