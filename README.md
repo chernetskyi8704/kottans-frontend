@@ -3,11 +3,11 @@
 ## Git Basics
 
 <details>
-<summary>Coursera:</summary>
+<summary>1. Прослухайте тижні 1 і 2 курсу Introduction to Git and GitHub:</summary>
 
-![screenshot](img/Week1.JPG)
+![screenshot](img/Week1.PNG)
 
-![screenshot](img/Week2.JPG)
+![screenshot](img/Week2.PNG)
 
 </details>
 
