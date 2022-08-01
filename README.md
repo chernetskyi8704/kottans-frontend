@@ -62,5 +62,11 @@
   
   ## 3. Git Collaboration
   
+  <details>
+<summary>1. Прослухайте тижні 3 і 4 курсу Introduction to Git and GitHub:</summary>
+
+
+</details>
+  
   
   
