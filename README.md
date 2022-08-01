@@ -1,6 +1,6 @@
 # STAGE 0
 
-## Git Basics
+## 0. Git Basics
 
 <details>
 <summary>1. Прослухайте тижні 1 і 2 курсу Introduction to Git and GitHub:</summary>
@@ -29,7 +29,7 @@
 
 </details>
 
-## Linux CLI, and HTTP
+## 1. Linux CLI, and HTTP
 <details>
 <summary>1. Linux Survival (4 modules):</summary>
 
