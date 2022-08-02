@@ -68,6 +68,18 @@
 ![screenshot](task_git_collaboration/Week3.png)
 ![screenshot](task_git_collaboration/Week4.png)
 </details>
+
+<details>
+<summary>2. Пройдіть наступні рівні тут learngitbranching.js.org:</summary>
+
+
+</details>
+
+<details>
+<summary>Враження:</summary>
+
+####
+</details>
   
   
   
