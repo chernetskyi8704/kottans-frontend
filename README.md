@@ -6,18 +6,18 @@
 <details>
 <summary>1. Прослухайте тижні 1 і 2 курсу Introduction to Git and GitHub:</summary>
 
-![screenshot](img/Week%201.png)
+![screenshot](task_git_basics/Week1.png)
 
-![screenshot](img/Week%202.png)
+![screenshot](task_git_basics/Week2.png)
 
 </details>
 
 <details>
 <summary>2. Пройдіть наступні рівні тут learngitbranching.js.org:</summary>
 
-![screenshot](img/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA1.JPG)
+![screenshot](task_git_basics/screenshot1.png)
   
-![screenshot](img/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA2.JPG)
+![screenshot](task_git_basics/screenshot2.JPG)
 
 </details>
 
