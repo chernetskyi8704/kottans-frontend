@@ -1,18 +1,20 @@
 # STAGE 0
+  ## General
 <!-- -------------------------------------------Git Basics---------------------------------------------------------------- -->
-
-  ## 0. Git Basics
-
+<details> 
+  
+<summary> 0. Git Basics </summary>
+  
 <details>
-<summary>Screenshots:</summary>
+  <summary>Screenshots:</summary> 
 
-![screenshot](task_git_basics/Week1.png)
-![screenshot](task_git_basics/Week2.png)
-![screenshot](task_git_basics/Screenshot_1.png)
-![screenshot](task_git_basics/Screenshot_2.png)
+  ![screenshot](task_git_basics/Week1.png)
+  ![screenshot](task_git_basics/Week2.png)
+  ![screenshot](task_git_basics/Screenshot_1.png)
+  ![screenshot](task_git_basics/Screenshot_2.png)
 
 </details>
-
+  
 <details>
 <summary>Summary:</summary>
 
@@ -21,9 +23,13 @@
 #### In practice, everything turned out to be three times more complicated, especially when you solve conflicts through your irreverence, which as a result generates new conflicts, so it was a good lesson for me to recheck everything twice. Despite all the difficulties, I enjoyed working with Git and Github. 🙂
 
 </details>
+  
+  </details>
+  
 <!-- -----------------------------------------Linux CLI, and HTTP-------------------------------------------------------------- -->
-
-  ## 1. Linux CLI, and HTTP
+<details> 
+  
+<summary> 1. Linux CLI, and HTTP </summary>
 
 <details>
 <summary>Screenshots:</summary>
@@ -34,7 +40,6 @@
 ![screenshot](task_linux_cli/quizNumber4.png))
 </details>
 
-</details>
 <details>
 <summary>Summary:</summary>
 
@@ -47,9 +52,10 @@
   
   #### A lot of new and already known to me theoretical material, which is unlikely to be 100% remains in your memory after reading, for better understanding I watched the additional videos and noted the main aspects. If it will be necessary in the future I will repeatedly return to the educational material and my notes as well.
   </details>
+   </details>
 <!-- -----------------------------------------Git Collaboration-------------------------------------------------------------- -->
-  
-  ## 2. Git Collaboration
+  <details> 
+    <summary> 2. Git Collaboration </summary>
   
  <details>
 <summary>Screenshots:</summary>
@@ -65,6 +71,19 @@
 
 #### 3/4 week was super informative, I have learned a lot of useful things. The "git rebase -i" very surprised me, it's really useful command, which allows you to do many things with the commits. In the future, I will repeatedly return to the educational material and my notes as well.
 </details>
+  
+  </details>
+
+## Front-End Basics
+
+<details> 
+    <summary> 3. Intro to HTML & CSS </summary>
+  
+  <details>
+<summary>Screenshots:</summary>
+      </details>
+  
+  </details>
   
   
   
