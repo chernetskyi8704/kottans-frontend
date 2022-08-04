@@ -4,29 +4,21 @@
   ## 0. Git Basics
 
 <details>
-<summary>1. Прослухайте тижні 1 і 2 курсу Introduction to Git and GitHub:</summary>
+<summary>Screenshots:</summary>
 
 ![screenshot](task_git_basics/Week1.png)
-
 ![screenshot](task_git_basics/Week2.png)
-
-</details>
-
-<details>
-<summary>2. Пройдіть наступні рівні тут learngitbranching.js.org:</summary>
-
 ![screenshot](task_git_basics/Screenshot_1.png)
-  
 ![screenshot](task_git_basics/Screenshot_2.png)
 
 </details>
 
 <details>
-<summary>Враження:</summary>
+<summary>Summary:</summary>
 
-#### До цього ніколи не доводилося мати справи із Git/Github, початкові команди цілком зрозумілі, а ось жонглювання комітами та робота із віддаленими репозиторіями, як на мене - є більш складними та потребують більше часу для зрозуміння, сподіваюсь із практикою розуміння й рівень моїх вмінь дійде до автоматизму.
+#### I have never dealt with Git/Github before, the initial commands are quite understandable, but the juggling of commits and work with remote repositories are more complicated and require more time to understand, but I hope that with practice, my skills will become better.
 
-#### На практиці все виявилося трішки складніше, а особливо, коли через свою неуважність вирішуєш конфлікти, що в результаті породжують нові конфлікти, тому виніс для себе гарний урок перепровіряти все двічі. Не зважаючи на всі складнощі мені сподобалося працювати із новими для себе технологіями 🙂
+#### In practice, everything turned out to be three times more complicated, especially when you solve conflicts through your irreverence, which as a result generates new conflicts, so it was a good lesson for me to recheck everything twice. Despite all the difficulties, I enjoyed working with Git and Github. 🙂
 
 </details>
 <!-- -----------------------------------------Linux CLI, and HTTP-------------------------------------------------------------- -->
@@ -37,49 +29,41 @@
 <summary>Screenshots:</summary>
 
 ![screenshot](task_linux_cli/quizNumber1.png)
-  
 ![screenshot](task_linux_cli/quizNumber2.png))
-
 ![screenshot](task_linux_cli/quizNumber3.png))
-
 ![screenshot](task_linux_cli/quizNumber4.png))
 </details>
 
 </details>
 <details>
-<summary>Враження:</summary>
+<summary>Summary:</summary>
 
 ## Linux Survival (4 modules):
- #### В загальному я вже був ознайомлений із командами, що були перераховані у перших 2 модулях але не використовував їх досить часто, тому було корисно пригадати та використати їх на практиці знову. Команди, що були продемонстровані у модулі 3/4 були для мене новими, тому потребують більше практики для того, щоб комфортно їх використовувати.
+ #### In general, I was already familiar with the commands that were shown in the first 2 modules, but I did not use them often enough, so it was useful to practice them again. The commands, which were demonstrated in module 3/4 were new to me and I need more practice to use them comfortably.
 
-#### Сподобалася візуалізація, що була продемонстрована у цьому ресурсі, яка дозволяє краще розуміти результат виконання тієї чи іншої команди. В майбутньому, коли доведеться працювати із Linux, буде корисним зазирнути туди знову й освіжити свої знання.
+#### I liked the visualization that was demonstrated in this resource, which allows you to better understand the result of each command. In the future, it will be useful to check it out again and refresh my knowledge.
 
-## HTTP: Протокол, який повинен розуміти кожний веб-розробник (частини 1,2)
+## HTTP: The Protocol Every Web Developer Must Know (Part 1,2):
   
-  #### Велика кількість як нового, так й вже відомого для мене теоретичного матеріалу, яка навряд чи на 100% відкладеться в голові після прочитання, тому для кращого розуміння переглядав додаткові відео та занотовував головні аспекти. При необхідності в майбутньому думаю ще неодноразово буду повертатися до навчального матеріалу та своїх нотаток.
+  #### A lot of new and already known to me theoretical material, which is unlikely to be 100% remains in your memory after reading, for better understanding I watched the additional videos and noted the main aspects. If it will be necessary in the future I will repeatedly return to the educational material and my notes as well.
   </details>
 <!-- -----------------------------------------Git Collaboration-------------------------------------------------------------- -->
   
   ## 2. Git Collaboration
   
  <details>
-<summary>1. Прослухайте тижні 3 і 4 курсу Introduction to Git and GitHub:</summary>
+<summary>Screenshots:</summary>
 
 ![screenshot](task_git_collaboration/Week3.png)
 ![screenshot](task_git_collaboration/Week4.png)
-</details>
-
-<details>
-<summary>2. Пройдіть наступні рівні тут learngitbranching.js.org:</summary>
-
 ![screenshot](task_git_collaboration/Screenshot_1.png)
 ![screenshot](task_git_collaboration/Screenshot_2.png)
 </details>
 
 <details>
-<summary>Враження:</summary>
+<summary>Summary:</summary>
 
-#### В загальному 3/4 тижні дуже інформативні, занотував для себе чимало корисного. Приємно здивувала команда "git rebase -i" за допомогою якої з комітами можна здійснювати безліч дій. При необхідності в майбутньому думаю ще неодноразово буду повертатися до навчального матеріалу та своїх нотаток.
+#### 3/4 week was super informative, I have learned a lot of useful things. The "git rebase -i" very surprised me, it's really useful command, which allows you to do many things with the commits. In the future, I will repeatedly return to the educational material and my notes as well.
 </details>
   
   
