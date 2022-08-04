@@ -72,7 +72,8 @@
 <details>
 <summary>2. Пройдіть наступні рівні тут learngitbranching.js.org:</summary>
 
-
+![screenshot](task_git_collaboration/Screenshot_1.png)
+![screenshot](task_git_collaboration/Screenshot_2.png)
 </details>
 
 <details>
