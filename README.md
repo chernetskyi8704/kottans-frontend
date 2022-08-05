@@ -4,17 +4,16 @@
 <details> 
   
 <summary> 0. Git Basics </summary>
-  
+   <br>
 <details>
-  <summary>Screenshots:</summary> 
+   <summary>Screenshots:</summary> 
 
   ![screenshot](task_git_basics/Week1.png)
   ![screenshot](task_git_basics/Week2.png)
   ![screenshot](task_git_basics/Screenshot_1.png)
   ![screenshot](task_git_basics/Screenshot_2.png)
-
 </details>
-  
+ 
 <details>
 <summary>Summary:</summary>
 
@@ -30,6 +29,7 @@
 <details> 
   
 <summary> 1. Linux CLI, and HTTP </summary>
+   <br>
 
 <details>
 <summary>Screenshots:</summary>
@@ -56,6 +56,7 @@
 <!-- -----------------------------------------Git Collaboration-------------------------------------------------------------- -->
   <details> 
     <summary> 2. Git Collaboration </summary>
+   <br>
   
  <details>
 <summary>Screenshots:</summary>
