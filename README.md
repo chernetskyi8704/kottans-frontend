@@ -74,17 +74,30 @@
 </details>
   
   </details>
+<!-- -----------------------------------------Front-End Basics-------------------------------------------------------------- -->
 
 ## Front-End Basics
 
 <details> 
     <summary> 3. Intro to HTML & CSS </summary>
-  
+    <br>
+    
   <details>
 <summary>Screenshots:</summary>
+
+![screenshot](task_html_css_intro/Screenshot_1.png)
+![screenshot](task_html_css_intro/Screenshot_2.png)
+![screenshot](task_html_css_intro/Screenshot_3.png)
       </details>
   
+  <details>
+<summary>Summary:</summary>
+
+#### I was already familiar with the 90% material that was presented, but the first time I have met with the Bootstrap Library. All in all, it was a perfect material to refresh my knowledge and learn some new stuff.
+</details>
+  
   </details>
+  <!-- -----------------------------------------Front-End Basics-------------------------------------------------------------- -->
   
   
   
