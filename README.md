@@ -97,7 +97,27 @@
 </details>
   
   </details>
-  <!-- -----------------------------------------Front-End Basics-------------------------------------------------------------- -->
+  <!-- -----------------------------------------Responsive Web Design-------------------------------------------------------------- -->
+  
+<details> 
+    <summary> 4. Responsive Web Design </summary>
+    <br>
+    
+  <details>
+<summary>Screenshots:</summary>
+
+![]()
+      </details>
+  
+  <details>
+<summary>Summary:</summary>
+
+#### 
+</details>
+  
+  </details>
+  
+  
   
   
   
