@@ -113,7 +113,7 @@
   <details>
 <summary>Summary:</summary>
 
-#### Previously, I was already familiar with Flexbox/Grid thanks to this YouTube channel, I like his clear explanation with practical examples, by the way, I often use his Flexbox/Grid cheat sheets. Also on his channel, there is a good explanation about responsive web design. 
+#### Previously, I was already familiar with Flexbox/Grid thanks to this YouTube channel, I like his clear explanation with practical examples, by the way, I often use his Flexbox/Grid cheat sheets. It was helpful for me to review this material again. Also on his channel, there is a good explanation about responsive web design. 
 
 #### Very cool games, they are a great addition to learning the Flexbox/Grid. I happily would return to them to refresh my knowledge.
 </details>
