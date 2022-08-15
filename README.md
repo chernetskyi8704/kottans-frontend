@@ -120,6 +120,20 @@
   
   </details>
     <!-- -----------------------------------------HTML & CSS Practice-------------------------------------------------------------- -->
+    <details> 
+    <summary> 5. HTML & CSS Practice </summary>
+    <br>
+  
+  <details>
+<summary>Summary:</summary>
+
+#### 
+
+[Demo](https://chernetskyi8704.github.io/Hooli-style-Popup/) |
+[Code base](https://github.com/chernetskyi8704/Hooli-style-Popup)
+</details>
+  
+  </details>
   
   
   
