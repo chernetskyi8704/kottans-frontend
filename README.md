@@ -134,6 +134,18 @@
 </details>
   
   </details>
+      <!-- -----------------------------------------JavaScript Basics-------------------------------------------------------------- -->
+          <details> 
+    <summary> 6. JavaScript Basics </summary>
+    <br>
+  
+  <details>
+<summary>Summary:</summary>
+
+#### 
+</details>
+  
+  </details>
   
   
   
