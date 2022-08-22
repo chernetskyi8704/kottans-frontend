@@ -135,15 +135,27 @@
   
   </details>
       <!-- -----------------------------------------JavaScript Basics-------------------------------------------------------------- -->
-          <details> 
+      
+ <details> 
     <summary> 6. JavaScript Basics </summary>
     <br>
+    
+  <details>
+<summary>Screenshots:</summary>
+
+![screenshot](task_js_basics/Screenshot_1.png)
+![screenshot](task_js_basics/Screenshot_2.png)
+![screenshot](task_js_basics/Screenshot_3.png)
+![screenshot](task_js_basics/Screenshot_4.png)
+![screenshot](task_js_basics/Screenshot_5.png)
+![screenshot](task_js_basics/Screenshot_6.png)
+![screenshot](task_js_basics/Screenshot_7.png)
+      </details>
   
   <details>
 <summary>Summary:</summary>
 
-#### 
-</details>
+#### I repeated what I had learned and learned enough new things. Some things were easy, and some things were difficult. I like working with Map, Filter and Reduce, they make writing and reading code much easier.
   
   </details>
   
