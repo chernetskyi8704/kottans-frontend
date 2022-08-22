@@ -127,7 +127,7 @@
   <details>
 <summary>Summary:</summary>
 
-#### 
+#### At first glance, it seems to be a very simple task, but when you start to do it, you will realize that it is not. I didn't pay much attention to HTML/CSS, I was more into JS, but now I understand that it was a huge mistake. I like this one practice I will continue practicing and improving my HTML/CSS skills.
 
 [Demo](https://chernetskyi8704.github.io/Hooli-style-Popup/) |
 [Code base](https://github.com/chernetskyi8704/Hooli-style-Popup)
@@ -155,8 +155,8 @@
   <details>
 <summary>Summary:</summary>
 
-#### I repeated what I had learned and learned enough new things. Some things were easy, and some things were difficult. I like working with Map, Filter and Reduce, they make writing and reading code much easier.
-  
+#### I had repeated what I had learned before and learned enough new things, some things were easy, and some things were difficult and took more time to understand. I like working with Map, Filter, and Reduce so much, they make writing and reading code much more accessible.
+    
   </details>
   
   
