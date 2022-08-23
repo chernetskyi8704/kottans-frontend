@@ -93,7 +93,7 @@
   </details>
     <!-- -----------------------------------------HTML & CSS Practice-------------------------------------------------------------- -->
     <details> 
-    <summary> 5. HTML & CSS Practice </summary>
+    <summary> 5. HTML & CSS - Practice </summary>
 
 #### At first glance, it seems to be a very simple task, but when you start to do it, you will realize that it is not. I didn't pay much attention to HTML/CSS, I was more into JS, but now I understand that it was a huge mistake. I like this one practice I will continue practicing and improving my HTML/CSS skills.
 
@@ -119,8 +119,19 @@
 ![screenshot](task_js_basics/Screenshot_7.png)
       </details>
   </details>
+        <!-- -----------------------------------------  Document Object Model -------------------------------------------------------------- -->
+
+<details> 
+    <summary> 7. Document Object Model - Practise </summary>
   
+#### 
+    
+  <details>
+<summary>Screenshots:</summary>
+
+      </details>
   
+  </details>
   
   
   
