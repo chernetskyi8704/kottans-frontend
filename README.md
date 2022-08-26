@@ -125,6 +125,9 @@
     <summary> 7. Document Object Model - Practise </summary>
   
 #### 
+
+[Demo](https://chernetskyi8704.github.io/Interactive-Side-menu/) |
+[Code base](https://github.com/chernetskyi8704/Interactive-Side-menu)
     
   <details>
 <summary>Screenshots:</summary>
