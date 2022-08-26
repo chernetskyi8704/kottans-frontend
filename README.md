@@ -139,6 +139,23 @@
       </details>
   
   </details>
+  <!-- -----------------------------------------Building a Tiny JS World (pre-OOP) - practice-------------------------------------------------------------- -->
+
+## Advanced Topics
+
+<details> 
+    <summary> 8. Building a Tiny JS World (pre-OOP) - practice </summary>
+
+  #### 
+  
+  <details>
+<summary>Screenshots:</summary>
+
+![screenshot]()
+
+      </details>
+  
+  </details>
   
   
   
