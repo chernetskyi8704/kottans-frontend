@@ -124,7 +124,9 @@
 <details> 
     <summary> 7. Document Object Model - Practise </summary>
   
-#### 
+#### Algorithm Scripting Challenges 12-18: quite difficult tasks unlike the previous ones, some of them were relatively easy, and in some of them I used prompts to resolve them. There is something to work on to improve my knowledge and skills.
+
+#### The practical task was not very difficult, I enjoyed using the knowledge I gained. Most of my time was taken up by the implementation of the architecture itself and the creation of at least some design.
 
 [Demo](https://chernetskyi8704.github.io/Interactive-Side-menu/) |
 [Code base](https://github.com/chernetskyi8704/Interactive-Side-menu)
@@ -132,6 +134,8 @@
   <details>
 <summary>Screenshots:</summary>
 
+![screenshot](task_js_dom/Screenshot_1.png)
+![screenshot](task_js_dom/Screenshot_2.png)
       </details>
   
   </details>
