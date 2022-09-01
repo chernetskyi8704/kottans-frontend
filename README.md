@@ -152,6 +152,21 @@
   [Code base](https://github.com/chernetskyi8704/a-tiny-JS-world/tree/populate-world)
   
   </details>
+          <!-- -----------------------------------------  Object oriented JS - practice -------------------------------------------------------------- -->
+
+<details> 
+    <summary> 9. Object oriented JS - practice </summary>
   
+#### 
+    
+  <details>
+<summary>Screenshots:</summary>
+
+![screenshot]()
+![screenshot]()
+      </details>
+  
+  </details>
+  <!-- -----------------------------------------Building a Tiny JS World (pre-OOP) - practice-------------------------------------------------------------- -->
   
   
