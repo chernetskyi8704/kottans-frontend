@@ -148,12 +148,8 @@
 
   #### 
   
-  <details>
-<summary>Screenshots:</summary>
-
-![screenshot]()
-
-      </details>
+  [Demo](https://chernetskyi8704.github.io/a-tiny-JS-world/) |
+  [Code base](https://github.com/chernetskyi8704/a-tiny-JS-world/tree/populate-world)
   
   </details>
   
