@@ -128,6 +128,8 @@
 
 #### The practical task was not very difficult, I enjoyed using the knowledge I gained. Most of my time was taken up by the implementation of the architecture itself and the creation of at least some design.
 
+#### It was also an amazing experience to work with a mentor, refactoring your own code and working with Git. I am satisfied with my work.
+
 [Demo](https://chernetskyi8704.github.io/Interactive-Side-menu/) |
 [Code base](https://github.com/chernetskyi8704/Interactive-Side-menu)
     
