@@ -167,11 +167,12 @@
   <details>
 <summary>Screenshots:</summary>
 
-![screenshot]()
-![screenshot]()
-      </details>
+![screenshot](task_js_oop/Screenshot_1.png)
+
+</details>
   
   </details>
+  
   <!-- -----------------------------------------Building a Tiny JS World (pre-OOP) - practice-------------------------------------------------------------- -->
   
 
