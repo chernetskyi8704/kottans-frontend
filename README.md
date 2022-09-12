@@ -161,7 +161,7 @@
   
 #### 
 
-[Demo](https://chernetskyi8704.github.io/a-tiny-JS-world/) |
+[Demo](https://chernetskyi8704.github.io/frontend-nanodegree-arcade-game/) | 
 [Code base](https://github.com/chernetskyi8704/frontend-nanodegree-arcade-game)
     
   <details>
