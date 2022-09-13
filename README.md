@@ -161,7 +161,7 @@
   
 #### 
 
-[Demo](https://chernetskyi8704.github.io/frontend-nanodegree-arcade-game/) | 
+[Demo](https://chernetskyi8704.github.io/Frogger-OOP/) | 
 [Code base](https://github.com/chernetskyi8704/frontend-nanodegree-arcade-game)
     
   <details>
