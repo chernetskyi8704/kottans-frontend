@@ -173,6 +173,16 @@
   
   </details>
   
-  <!-- -----------------------------------------Building a Tiny JS World (pre-OOP) - practice-------------------------------------------------------------- -->
+  <!-- ----------------------------------------- OOP exercise - practice -------------------------------------------------------------- -->
+  
+  <details> 
+    <summary> 10. OOP exercise - practice </summary>
+  
+#### 
+
+[Demo](https://chernetskyi8704.github.io/a-tiny-JS-world/) |
+[Code base](https://github.com/chernetskyi8704/a-tiny-JS-world/tree/populate-world)
+  
+  </details>
   
 
