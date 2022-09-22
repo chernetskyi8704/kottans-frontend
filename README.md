@@ -185,4 +185,18 @@
   
   </details>
   
+  <!-- ------------------------------------- Memory pair game — real project ---------------------------------------------------------- -->
+    
+<details> 
+<summary> 12. Memory pair game — real project </summary>
+  
+#### 
+
+[Demo](https://chernetskyi8704.github.io/Memory-pair-game/) |
+[Code base](https://github.com/chernetskyi8704/Memory-pair-game)
+  
+  </details>
+  
+
+  
 
