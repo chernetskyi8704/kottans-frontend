@@ -197,6 +197,24 @@
   
   </details>
   
+    <!-- ------------------------------------- Friends App — real project ---------------------------------------------------------- -->
+    
+<details> 
+<summary> 14. Friends App — real project </summary>
+  
+#### 
+
+[Demo](https://chernetskyi8704.github.io/Friends-App/) |
+[Code base](https://github.com/chernetskyi8704/Friends-App)
+  
+  </details>
+  
+  
+  
+  
+  
+
+  
 
   
 
