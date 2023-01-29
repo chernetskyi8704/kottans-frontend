@@ -162,7 +162,7 @@
 #### 
 
 [Demo](https://chernetskyi8704.github.io/Frogger-OOP/) | 
-[Code base](https://github.com/chernetskyi8704/frontend-nanodegree-arcade-game)
+[Code base](https://github.com/chernetskyi8704/Frogger-OOP)
     
   <details>
 <summary>Screenshots:</summary>
